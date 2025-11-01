@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://example.com/path/to/your/welcome-image.gif" alt="Welcome Image" width="400"/>
-</p>
-
-<h1 align="center"> Hello · Hallo · Привіт · Hej Damas y caballeros</h1>
-
-<h3 align="center">Chippin' In</h3>
-
 <p align="left">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
 </p>
