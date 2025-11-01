@@ -25,7 +25,7 @@
 
 ### 💬 Socials
 
-<h3 align="center">💬 Socials</h3>
+<h3 align="center"></h3>
 <p align="center">
   <a href="https://discord.com/users/VAST_USER_ID" target="_blank" rel="noreferrer">
     <img src="https://github.com/Bounsert/Bounsert/blob/main/images/discrod.png" alt="Discord" width="50" height="50"/>
