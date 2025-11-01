@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello · Hallo · Привіт · Hej Damas y caballeros</h1>
 
-<h3 align="center">Let's build something awesome together!</h3>
+<h3 align="center">Chippin' In</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/TOP_DEVELOPER-A%2B-brightgreen" alt="Top Developer Badge"/>
