@@ -17,7 +17,7 @@
 * 📂 My projects: [**Dropbox Portfolio**](https://www.dropbox.com/your-portfolio-link)
 * 📝 I write on: [**Elevate Blog**](https://medium.com/your-blog-link)
 * 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**
-* 📫 Reach me: [**naolm662@gmail.com**](mailto:naolm662@gmail.com) or [**nahtheo@proton.me**](mailto:nahtheo@proton.me)
+* 📫 Reach me: [**jenagoshenko@gmail.come**](mailto:jenagoshenko@gmail.com)
 * 💼 Hire me: [**Up Work**](https://www.upwork.com/freelancer/your-profile)
 * ⚡ Fun fact: **I love mixing space-tech with mobile apps 🚀 and You won't find me in Roblox 😉**
 
