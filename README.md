@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
-</p>
 <h1 align="center"> ℋℯ𝓁𝓁ℴ · ℋ𝒶𝓁𝓁ℴ · Привіт · ℋℯ𝒿 𝒟𝒶𝓂𝒶𝓈 𝓎 𝒸𝒶𝒷𝒶𝓁𝓁ℯ𝓇ℴ𝓈</h1>
 
 <h3 align="center">
