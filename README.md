@@ -28,15 +28,15 @@
 <h3 align="center">💬 Socials</h3>
 <p align="center">
   <a href="https://discord.com/users/VAST_USER_ID" target="_blank" rel="noreferrer">
-    <img src="путь/к/вашему/discord.png" alt="Discord" width="50" height="50"/>
+    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/discrod.png" alt="Discord" width="50" height="50"/>
   </a>
   
   &nbsp;&nbsp;&nbsp; <a href="https://t.me/VASHE_IMYA_POLZOVATELYA" target="_blank" rel="noreferrer">
-    <img src="путь/к/вашему/telegram.png" alt="Telegram" width="50" height="50"/>
+    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/telegram.png" alt="Telegram" width="50" height="50"/>
   </a>
   
   &nbsp;&nbsp;&nbsp; <a href="mailto:VASH_EMAIL@example.com" target="_blank" rel="noreferrer">
-    <img src="путь/к/вашему/gmail.png" alt="Gmail" width="50" height="50"/>
+    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
 
