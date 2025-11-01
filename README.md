@@ -2,7 +2,7 @@
   <img src="https://example.com/path/to/your/welcome-image.gif" alt="Welcome Image" width="400"/>
 </p>
 
-<h1 align="center">👋 Welcome to My World</h1>
+<h1 align="center"> Hello · Hallo · Привіт · Hej Damas y caballeros</h1>
 
 <h3 align="center">Let's build something awesome together!</h3>
 
