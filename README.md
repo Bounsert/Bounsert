@@ -79,19 +79,42 @@
 </p>
 
 ---
+## 💬 Socials
 
-## 🛠️ Skills & Technologies
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/ -D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/ -0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/ -FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/ -26A5E4?logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <a href="https://discord.com/users/your-userid">
+    <img src="https://img.shields.io/badge/ -5865F2?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/ -FCC624?logo=linux&logoColor=black" alt="Linux"/>
   
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ -00599C?logo=cplusplus&logoColor=white" alt="C++"/>
   
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/ -3776AB?logo=python&logoColor=white" alt="Python"/>
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/ -E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/ -1572B6?logo=css3&logoColor=white" alt="CSS3"/>
 </p>
