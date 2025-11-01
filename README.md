@@ -34,7 +34,7 @@
     <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/telegram.png" alt="Telegram" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp; 
-  <a href="jenagoshenko@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:jenagoshenko@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
