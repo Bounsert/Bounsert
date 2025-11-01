@@ -25,15 +25,17 @@
 
 ### 💬 Socials
 
+### 💬 Socials
+
 <p align="center">
-  <a href="https://discord.com/users/VAST_USER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/ВАШ_ID_ДИСКОРДА" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=social&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://t.me/VASHE_IMYA_POLZOVATELYA" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/ВАШЕ_ИМЯ_ПОЛЬЗОВАТЕЛЯ_ТЕЛЕГРАМ" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=social&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:VASH_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ВАШ_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=social&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
