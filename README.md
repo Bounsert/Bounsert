@@ -108,13 +108,13 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ -FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/ -FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   
-  <img src="https://img.shields.io/badge/ -00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ -00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   
-  <img src="https://img.shields.io/badge/ -3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/ -3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   
-  <img src="https://img.shields.io/badge/ -E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/ -E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   
-  <img src="https://img.shields.io/badge/ -1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/ -1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
