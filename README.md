@@ -4,7 +4,7 @@
   𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
 </h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
 <p align="center">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(3).gif" alt="Welcome Image" width="400"/>
