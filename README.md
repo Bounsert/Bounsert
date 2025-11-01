@@ -7,7 +7,7 @@
 <h3 align="center">Chippin' In</h3>
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/TOP_DEVELOPER-A%2B-brightgreen](https://github.com/Bounsert/Bounsert/blob/main/screenshot_250315_174514.jpg)" alt="Top Developer Badge"/>
+  <img src="https://img.shields.io/badge/TOP_DEVELOPER-A%2B-brightgreen](https://github.com/Bounsert/Bounsert/blob/main/screenshot_250315_174514.jpg" alt="Top Developer Badge"/>
 </p>
 
 ## ⭐ About Me
