@@ -25,18 +25,17 @@
 
 ### 💬 Socials
 
-<h3 align="center"></h3>
 <p align="center">
   <a href="https://discord.com/users/VAST_USER_ID" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/discrod.png" alt="Discord" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/images/discrod.png" alt="Discord" width="50" height="50"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp; <a href="https://t.me/VASHE_IMYA_POLZOVATELYA" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/telegram.png" alt="Telegram" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://t.me/VASHE_IMYA_POLZOVATELYA" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/images/telegram.png" alt="Telegram" width="50" height="50"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp; <a href="mailto:VASH_EMAIL@example.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/images/gmail.png" alt="Gmail" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="mailto:VASH_EMAIL@example.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/images/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
 
