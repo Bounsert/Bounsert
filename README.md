@@ -105,16 +105,26 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💬 Socials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ -FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/ -D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   
-  <img src="https://img.shields.io/badge/ -00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/ -0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   
-  <img src="https://img.shields.io/badge/ -3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/ -FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   
-  <img src="https://img.shields.io/badge/ -E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/ -26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   
-  <img src="https://img.shields.io/badge/ -1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <a href="https://discord.com/users/your-userid">
+    <img src="https://img.shields.io/badge/ -5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
