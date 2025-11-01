@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
 <p align="center">
-  <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(1).gif" alt="Welcome Image" width="400"/>
+  <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(3).gif" alt="Welcome Image" width="400"/>
 </p>
 
 * 🌱 Currently working on **Exciting Flutter projects & AI-based Software** solving real-world problems
