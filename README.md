@@ -10,16 +10,9 @@
   <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(3).gif" alt="Welcome Image" width="400"/>
 </p>
 
-* 🌱 Currently working on **Exciting Flutter projects & AI-based Software** solving real-world problems
-* 🔭 Exploring **AI + Cloud integrations & Neural Technologies**
-* 🤝 Open to collaborate on **Open-source & AI + Mobile App development**
-* ❤️ Looking for help with **training AI models in underrepresented human languages**
-* 📂 My projects: [**Dropbox Portfolio**](https://www.dropbox.com/your-portfolio-link)
-* 📝 I write on: [**Elevate Blog**](https://medium.com/your-blog-link)
-* 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**
-* 📫 Reach me: [**jenagoshenko@gmail.com**](mailto:jenagoshenko@gmail.com)
-* 💼 Hire me: [**Up Work**](https://www.upwork.com/freelancer/your-profile)
-* ⚡ Fun fact: **I love mixing space-tech with mobile apps 🚀 and You won't find me in Roblox 😉**
+Hey there! 👋 I’m a Python developer who loves turning ideas into practical, user-friendly desktop tools. I’m especially into computer vision and image processing — things like document scanning 📄 (using OpenCV), text recognition 🔍 (Tesseract), and working with barcodes or QR codes 📦 (pyzbar, qrcode).
+
+I really enjoy building complete apps with nice graphical interfaces (Tkinter is my go-to 🧩) that actually help people — automating boring stuff, simplifying tasks, and solving real-world problems. It’s super satisfying when something you code just makes life a bit easier 😄.
 
 ---
 
