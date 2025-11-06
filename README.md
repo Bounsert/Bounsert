@@ -22,7 +22,7 @@
     </td>
     
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(3).gif" alt="Welcome Image" width="400"/>
+      <img src="https://github.com/Bounsert/Bounsert/blob/main/IMG_5644.gif" alt="Welcome Image" width="400"/>
     </td>
     
   </tr>
