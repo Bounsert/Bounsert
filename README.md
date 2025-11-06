@@ -17,7 +17,7 @@
     </td>
     
     <td width="30%" valign="top" align="center">
-      <img src="https://YOUR_GIF_URL_HERE.gif" alt="Python & CV Developer" width="250">
+      <img src="https://github.com/Bounsert/Bounsert/blob/main/IMG_5644.gif" width="250">
     </td>
   </tr>
 </table>
