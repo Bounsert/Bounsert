@@ -2,7 +2,13 @@
 
 <h3 align="center">
   𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
+
+<h1 align="center"> ℋℯ𝓁𝓁ℴ · ℋ𝒶𝓁𝓁ℴ · ℋℯ𝒿 𝒟𝒶𝓂𝒶𝓈 𝓎 𝒸𝒶𝒷𝒶𝓁𝓁ℯ𝓇ℴ𝓈</h1>
+
+<h3 align="center">
+  𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
 </h3>
+
 <p align="center">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
 </p>
@@ -21,6 +27,7 @@
     
   </tr>
 </table>
+---
 ---
 
 ### 💬 Socials
