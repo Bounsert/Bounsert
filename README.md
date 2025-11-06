@@ -16,9 +16,9 @@
       <p>I really enjoy building complete apps with nice graphical interfaces (Tkinter is my go-to 🧩) that actually help people — automating boring stuff, simplifying tasks, and solving real-world problems. It’s super satisfying when something you code just makes life a bit easier 😄.</p>
     </td>
     
-    <td width="30%" valign="top" align="center">
-      <img src="https://github.com/Bounsert/Bounsert/blob/main/IMG_5644.gif" width="250">
-    </td>
+   <td width="30%" valign="top" align="center">
+  <img src="https://github.com/Bounsert/Bounsert/raw/main/IMG_5644.gif" width="250">
+</td>
   </tr>
 </table>
 
