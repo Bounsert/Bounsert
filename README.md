@@ -1,19 +1,13 @@
 <h1 align="center"> ℋℯ𝓁𝓁ℴ · ℋ𝒶𝓁𝓁ℴ · ℋℯ𝒿 𝒟𝒶𝓂𝒶𝓈 𝓎 𝒸𝒶𝒷𝒶𝓁𝓁ℯ𝓇ℴ𝓈</h1>
 
 <h3 align="center">
-  𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
-
-<h1 align="center"> ℋℯ𝓁𝓁ℴ · ℋ𝒶𝓁𝓁ℴ · ℋℯ𝒿 𝒟𝒶𝓂𝒶𝓈 𝓎 𝒸𝒶𝒷𝒶𝓁𝓁ℯ𝓇ℴ𝓈</h1>
-
-<h3 align="center">
   𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
 </h3>
 
 <p align="center">
   <img src="https://github.com/Bounsert/Bounsert/blob/main/1.PNG" alt="Top Developer Badge"/>
 </p>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     
     <td width="50%" valign="top">
@@ -22,12 +16,11 @@
     </td>
     
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/Bounsert/Bounsert/blob/main/IMG_5644.gif" alt="Welcome Image" width="400"/>
+      <img src="https://github.com/Bounsert/Bounsert/blob/main/textanim%20(3).gif" alt="Welcome Image" width="400"/>
     </td>
     
   </tr>
 </table>
----
 ---
 
 ### 💬 Socials
