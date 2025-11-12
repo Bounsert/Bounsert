@@ -23,15 +23,12 @@
 </table>
 
 <h3 align="center">📊 Моя статистика GitHub</h3>
+
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bounsert&show_icons=true&theme=radical&rank_icon=github" alt="Статистика GitHub Bounsert" />
-      </a>
-      <br><br>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bounsert&theme=radical" alt="Статистика 'стриков' Bounsert" />
       </a>
     </td>
     <td width="40%" valign="top">
@@ -41,6 +38,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?user=Bounsert&theme=radical&margin-w=15&margin-h=15" alt="Трофеи GitHub Bounsert" />
+  </a>
+</p>
 
 ### 💬 Socials
 
