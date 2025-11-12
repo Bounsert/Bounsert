@@ -9,18 +9,24 @@
 </p>
 
 <table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>👨‍💻 About me</h3>
-      <p>Hey there! 👋 I’m a Python developer who loves turning ideas into practical, user-friendly desktop tools. I’m especially into computer vision and image processing — things like document scanning 📄 (using OpenCV), text recognition 🔍 (Tesseract), and working with barcodes or QR codes 📦 (pyzbar, qrcode).</p>
-      <p>I really enjoy building complete apps with nice graphical interfaces (Tkinter is my go-to 🧩) that actually help people — automating boring stuff, simplifying tasks, and solving real-world problems. It’s super satisfying when something you code just makes life a bit easier 😄.</p>
-    </td>
+ <tr>
+    <td width="70%" valign="top">
+      <h3>👨‍💻 About me</h3>
+      <p>Hey there! 👋 I’m a Python developer who loves turning ideas into practical, user-friendly desktop tools. I’m especially into computer vision and image processing — things like document scanning 📄 (using OpenCV), text recognition 🔍 (Tesseract), and working with barcodes or QR codes 📦 (pyzbar, qrcode).</p>
+      <p>I really enjoy building complete apps with nice graphical interfaces (Tkinter is my go-to 🧩) that actually help people — automating boring stuff, simplifying tasks, and solving real-world problems. It’s super satisfying when something you code just makes life a bit easier 😄.</p>
+    </td>
     
    <td width="30%" valign="top" align="center">
   <img src="https://github.com/Bounsert/Bounsert/raw/main/IMG_5644.gif" width="250">
 </td>
   </tr>
 </table>
+
+
+<table width="100%">
+
+ 
+
 
 <h3 align="center">📊 Моя статистика GitHub</h3>
 
