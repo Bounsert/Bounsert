@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/1.PNG" alt="Top Developer Badge"/>
+    <img src="https://raw.githubusercontent/Bounsert/Bounsert/main/1.PNG" alt="Top Developer Badge"/>
 </p>
 
 <table width="100%">
@@ -38,12 +38,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?user=Bounsert&theme=radical&margin-w=15&margin-h=15" alt="Трофеи GitHub Bounsert" />
-  </a>
-</p>
 
 ### 💬 Socials
 
@@ -78,7 +72,7 @@
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a> 
+</a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
   </a> 
