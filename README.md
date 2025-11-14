@@ -53,10 +53,13 @@
       </a>
     </td>
     <td width="40%" valign="top" align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/Paw.gif" alt="Paw GIF" width="auto" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bounsert&layout=compact&theme=radical" alt="Самые используемые языки Bounsert" />
+      </a>
+      <br>
+      <img align="center" src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/Paw.gif" alt="Paw GIF" width="auto" height="90px" style="object-fit: cover; border-radius: 10px;"/>
     </td>
   </tr>
-</table>
 
 ### 💬 Socials
 
