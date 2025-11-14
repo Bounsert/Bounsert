@@ -43,6 +43,21 @@
   </tr>
 </table>
 
+<h3 align="center">📊 Моя статистика GitHub</h3>
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bounsert&show_icons=true&theme=radical&rank_icon=github" alt="Статистика GitHub Bounsert" />
+      </a>
+    </td>
+    <td width="40%" valign="top" align="center">
+        <img align="center" src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/Paw.gif" alt="Paw GIF" width="auto" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
 ### 💬 Socials
 
 
