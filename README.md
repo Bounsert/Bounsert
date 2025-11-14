@@ -41,30 +41,10 @@
     </td>
   </tr>
 </table>
-### 💬 Socials
 
-<p align="center">
-  <a href="https://discordapp.com/users/828163284816625696" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/discrod.png" alt="Discord" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; 
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/telegram.png" alt="Telegram" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; 
-  <a href="mailto:jenagoshenko@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/gmail.png" alt="Gmail" width="50" height="50"/>
-  </a>
-</p>
-
-
+💬 Socials
 <p>
 <a href="https://discordapp.com/users/828163284816625696" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a><a href="mailto:jenagoshenko@gmail.com" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer" style="border: none;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
