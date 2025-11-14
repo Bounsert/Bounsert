@@ -7,10 +7,6 @@
   𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
 </h3>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/1.PNG" alt="Top Developer Badge"/>
-</p>
-
 <table width="100%">
  <tr>
     <td width="70%" valign="top">
