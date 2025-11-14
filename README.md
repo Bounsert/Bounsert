@@ -20,28 +20,9 @@
   </tr>
 </table>
 
-
 <table width="100%">
 
- 
-
-
-<h3 align="center">📊 Моя статистика GitHub</h3>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bounsert&show_icons=true&theme=radical&rank_icon=github" alt="Статистика GitHub Bounsert" />
-      </a>
-    </td>
-    <td width="40%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bounsert&layout=compact&theme=radical" alt="Самые используемые языки Bounsert" />
-      </a>
-    </td>
-  </tr>
-</table>
+📊 My statistics GitHub</h3>
 
 <table width="100%">
   <tr>
@@ -63,8 +44,6 @@
 
 ### 💬 Socials
 
-
-
 <p align="center">
   <a href="https://discordapp.com/users/828163284816625696" target="_blank" rel="noreferrer">
     <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/discrod.png" alt="Discord" width="50" height="50"/>
@@ -78,10 +57,6 @@
     <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
-
-
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 
