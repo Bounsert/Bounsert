@@ -58,25 +58,20 @@
 </p>
 
 
-<p align="center">
+<p>
   <a href="https://discordapp.com/users/828163284816625696" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  &nbsp;&nbsp;&nbsp; 
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp; 
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  &nbsp;&nbsp;&nbsp; 
   <a href="mailto:jenagoshenko@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
 
 
 <h3 align="center">Languages and Tools:</h3>
