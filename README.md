@@ -41,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 ### 💬 Socials
 
 <p align="center">
@@ -57,6 +56,31 @@
     <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
+
+
+
+<p align="center">
+  <a href="https://discordapp.com/users/828163284816625696" target="_blank" rel="noreferrer" style="border: none;">
+    <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/discrod.png" alt="Discord" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; 
+    <a href="" target="_blank" rel="noreferrer" style="border: none;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram-Dark.svg" alt="Instagram" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; 
+    <a href="" target="_blank" rel="noreferrer" style="border: none;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TikTok-Dark.svg" alt="TikTok" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="mailto:jenagoshenko@gmail.com" target="_blank" rel="noreferrer" style="border: none;">
+    <img src="https://github.com/Bounsert/Bounsert/blob/main/iloveimg-resized/gmail.png" alt="Gmail" width="50" height="50"/>
+  </a>
+</p>
+
+
+
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 
