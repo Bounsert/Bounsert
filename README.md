@@ -9,7 +9,7 @@
     <td width="70%" valign="top">
       <h3>Hello.</h3>
       <p> On this page, I publish my completed projects, solutions, and games. The content is focused on practical use and knowledge sharing.</p>
-      <p>I really enjoy building complete apps with nice graphical interfaces (Tkinter is my go-to 🧩) that actually help people — automating boring stuff, simplifying tasks, and solving real-world problems. It’s super satisfying when something you code just makes life a bit easier 😄.</p>
+      <p>I also manage my own Discord channel, which is open for communication, project discussions, and collaboration. The community is open to everyone interested in development and cooperation.</p>
     </td>
     
    <td width="30%" valign="top" align="center">
