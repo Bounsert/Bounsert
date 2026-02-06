@@ -22,15 +22,6 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bounsert&show_icons=true&theme=radical&rank_icon=github" alt="Статистика GitHub Bounsert" />
-      </a>
-    </td>
-    <td width="35%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bounsert&layout=compact&theme=radical" alt="Самые используемые языки Bounsert" />
-      </a>
     </td>
     <td width="15%" valign="top" align="center">
        <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/Paw.gif" alt="Paw GIF" width="100%" style="border-radius: 10px;"/>
