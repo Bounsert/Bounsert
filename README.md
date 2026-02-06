@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bounsert/Bounsert/main/5362.gif" alt="Bounsert's Greeting GIF" width="100%" height="auto" style="max-height: 150px; object-fit: cover;"/>
-</p>
+
 <h1 align="center" style="margin-top: -1000px;"> ℋℯ𝓁𝓁ℴ · ℋ𝒶𝓁𝓁ℴ · ℋℯ𝒿 𝒟𝒶𝓂𝒶𝓈 𝓎 𝒸𝒶b𝒶𝓁𝓁ℯ𝓇ℴ𝓈</h1>
 <h3 align="center">
   𝒞𝒽𝒾𝓅𝓅𝒾𝓃' ℐ𝓃
