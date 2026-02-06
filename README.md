@@ -18,9 +18,7 @@
   </tr>
 </table>
 
-<table width="100%">
 
-📊 My statistics GitHub</h3>
 
 <table width="100%">
   <tr>
