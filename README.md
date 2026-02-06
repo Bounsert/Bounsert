@@ -10,6 +10,7 @@
       <h3>Hello.</h3>
       <p> On this page, I publish my completed projects, solutions, and games. The content is focused on practical use and knowledge sharing.</p>
       <p>I also manage my own Discord channel, which is open for communication, project discussions, and collaboration. The community is open to everyone interested in development and cooperation.</p>
+      <p>If you’re looking for meaningful projects, clear solutions, and a professional environment — you’re welcome to join.</p>
     </td>
     
    <td width="30%" valign="top" align="center">
