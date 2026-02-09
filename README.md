@@ -84,6 +84,8 @@
 
 
 
+
+
 <h3 align="center">Languages & Web</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -147,6 +149,9 @@
 
 <h3 align="center">OS</h3>
 <p align="center">
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="60" height="60"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
   </a>
